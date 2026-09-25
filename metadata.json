@@ -1,0 +1,6 @@
+{
+  "name": "ARMY X",
+  "description": "Original 3D mobile battle royale shooter featuring real-time 3D tactical combat, weapons, bots, and safe zones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
